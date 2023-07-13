@@ -1,2 +1,2 @@
 # BRIJIJA-WS
-Python-Scripts/Tutuorials for Brij.
+Python-Scripts for Brij.
